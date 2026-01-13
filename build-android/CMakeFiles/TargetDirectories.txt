@@ -1,3 +1,0 @@
-/data/data/com.termux/files/home/ndk-demo/build-android/CMakeFiles/memtool.dir
-/data/data/com.termux/files/home/ndk-demo/build-android/CMakeFiles/edit_cache.dir
-/data/data/com.termux/files/home/ndk-demo/build-android/CMakeFiles/rebuild_cache.dir
